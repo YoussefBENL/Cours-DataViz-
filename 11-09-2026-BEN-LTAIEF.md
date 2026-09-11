@@ -1,4 +1,4 @@
-# Image 1
+# Image 1 Accès à l'eau potable
 Ce graphique montre une distorsion visuelle parce que la taille des bulles ne correspond pas proportionnellement aux pourcentages.
 La bulle de Silvatown (85 %) est beaucoup plus grande que celle de Wilowtown (82 %), ce qui exagère la différence entre les 2 
 Pour corriger ce graphique il faut utiliser un graphique en barres ou changer la taille de la bulle de Wilowtown qui doit être un peu plus petit que celle de Silvatown
@@ -6,8 +6,7 @@ Pour corriger ce graphique il faut utiliser un graphique en barres ou changer la
 ![Image % population accès à l'eau potable ](popu.jpg)
 
 
-# Image 2
-
+# Image 2 Chutes de neige
 Ce graphique montre que Milwaukee a un total de 7,1 pouces de neige, tandis que Buffalo en a 101,6 pouces
 L'œil humain compare les tailles visuelles avant de lire les chiffres.
 Pour corriger on peut commence à 0 et monter jusqu'à 110 pouces pour avoir une bonne échelle.
@@ -16,8 +15,7 @@ et donc un seul bonhomme de neige pour Milwaukee et 14 bonhommes pour Buffalo
 
 ![Image neige ](Seasonal-Snow.jpg)
 
-# Image 3
-
+# Image 3 Usage des téléphones par âge
 Le graphique montre des silhouettes humaines remplies de couleur pour représenter le pourcentage d'utilisateurs de téléphones portables par âge
 Pour que le graphique soit exact, il faut remplir précisément la hauteur de chaque silhouette en fonction de son pourcentage. 
 Le niveau de remplissage des silhouettes est totalement faux par rapport aux pourcentages affichés au-dessus : 
