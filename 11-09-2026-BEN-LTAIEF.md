@@ -14,4 +14,4 @@ ou par exemple on dit qu’une icône de bonhomme de neige = 7 pouces de neige.
 un seul bonhomme de neige pour Milwaukee et 14 bonhommes pour Buffalo
 
 
-![Image neige ](Seasonal-snow.jpg)
+![Image neige ](Seasonal-Snow.jpg)
