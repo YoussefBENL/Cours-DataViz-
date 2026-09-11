@@ -14,8 +14,14 @@ Pour corriger on peut commence à 0 et monter jusqu'à 110 pouces pour avoir une
 ou par exemple on dit qu’une icône de bonhomme de neige = 7 pouces de neige.
 et donc un seul bonhomme de neige pour Milwaukee et 14 bonhommes pour Buffalo
 
-
 ![Image neige ](Seasonal-Snow.jpg)
 
+# Image 3
 
+Le graphique montre des silhouettes humaines remplies de couleur pour représenter le pourcentage d'utilisateurs de téléphones portables par âge
+Pour que le graphique soit exact, il faut remplir précisément la hauteur de chaque silhouette en fonction de son pourcentage. 
+Le niveau de remplissage des silhouettes est totalement faux par rapport aux pourcentages affichés au-dessus : 
+par exemple, la silhouette des 50-64 ans (63 %) est presque entièrement colorée, tandis que celle des 18-29 ans (91 %) est vide aux deux tiers.
+Pour corriger, la silhouette à 91 % doit être colorée presque jusqu'au sommet du crâne, et celle à 41 % doit être remplie un peu en dessous de la moitié.
 
+![Image Usage-tel ](Usage-tel.png)
