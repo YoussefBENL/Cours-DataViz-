@@ -1,4 +1,4 @@
-Carte du taux de disponibilité des Vélib'
+## Carte du taux de disponibilité des Vélib'
 
 Cette image présente une carte de Paris qui permet de voir le taux de disponibilité des Vélib’ dans les différentes stations. Chaque station est représentée par un cercle bleu.
 
