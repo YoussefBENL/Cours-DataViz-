@@ -9,3 +9,7 @@ Dans la deuxième moitié du classement, les ventes sont plus faibles et les éc
 Le choix d’un graphique en barres horizontales rend la comparaison simple et agréable à lire. Les noms des jeux restent bien visibles et la longueur des barres permet de repérer rapidement les différences de ventes. Il n’est pas nécessaire de lire chaque valeur pour comprendre les grandes tendances.
 
 En résumé, ce graphique montre que certains jeux se distinguent largement par leurs ventes, en particulier Minecraft et Grand Theft Auto V. Il permet aussi de constater que de nombreux autres titres ont connu un succès commercial important, même si leurs ventes restent bien inférieures à celles des deux premiers. Les chiffres mentionnés sont des estimations lues sur le graphique.
+
+
+![15 jeux vidéo les plus vendus, toutes plateformes confondues](15JeuxLesPlusVendu.png)
+
