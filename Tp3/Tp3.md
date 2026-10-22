@@ -1,14 +1,15 @@
-Cette image montre le classement des 15 jeux vidéo les plus vendus, toutes plateformes confondues. Grâce à ce graphique en barres horizontales, on peut voir assez facilement quels jeux ont rencontré le plus de succès auprès des joueurs.
+Les jeux vidéo : ventes et éditeurs
+Ce dashboard présente les jeux vidéo les plus vendus et les principaux éditeurs du marché. Il permet de comparer les ventes et de voir quels jeux ont rencontré le plus de succès.
 
-Ce qui saute tout de suite aux yeux, c’est la première place de Minecraft, avec environ 238 millions de ventes. Il se démarque nettement des autres jeux. Juste derrière, on retrouve Grand Theft Auto V, avec environ 180 millions de ventes. À eux deux, ces jeux prennent une avance importante sur le reste du classement.
+Sur la gauche, des filtres permettent de choisir les années de sortie et les genres de jeux, comme l’action, l’aventure ou le sport. En haut, on retrouve quelques chiffres clés : 10 791 millions de ventes au total, 20 471 jeux avec des ventes connues et Wii Sports comme jeu le plus vendu selon les données du dashboard.
 
-En troisième position, PlayerUnknown’s Battlegrounds atteint environ 70 millions de ventes. L’écart avec les deux premiers est assez marqué. On retrouve ensuite des jeux très connus comme The Elder Scrolls V: Skyrim, Red Dead Redemption 2 et The Witcher 3: Wild Hunt, qui ont eux aussi réalisé de belles performances commerciales.
+Au centre, le graphique classe les 15 jeux les plus vendus. Minecraft arrive en première position avec environ 238 millions de ventes, suivi de Grand Theft Auto V avec environ 180 millions. On remarque un écart important entre ces deux jeux et le reste du classement. D’autres titres connus, comme PUBG, Skyrim et Red Dead Redemption 2, figurent également parmi les jeux les plus vendus.
 
-Dans la deuxième moitié du classement, les ventes sont plus faibles et les écarts entre les jeux sont moins importants. On y retrouve notamment plusieurs épisodes de Call of Duty, ainsi que Diablo III, Grand Theft Auto: San Andreas et Borderlands 2. Même s’ils occupent les dernières places de ce top 15, ces jeux ont tout de même atteint plusieurs dizaines de millions de ventes.
+À droite, le classement des éditeurs place Rockstar Games en tête, devant Electronic Arts et Capcom. Ubisoft et Activision font aussi partie des éditeurs présentés. Ce graphique permet de comparer les ventes des différentes entreprises et de voir lesquelles se démarquent.
 
-Le choix d’un graphique en barres horizontales rend la comparaison simple et agréable à lire. Les noms des jeux restent bien visibles et la longueur des barres permet de repérer rapidement les différences de ventes. Il n’est pas nécessaire de lire chaque valeur pour comprendre les grandes tendances.
+Les onglets en haut de la page permettent également d’explorer d’autres aspects du jeu vidéo, notamment les critiques, les franchises et les jeux phares.
 
-En résumé, ce graphique montre que certains jeux se distinguent largement par leurs ventes, en particulier Minecraft et Grand Theft Auto V. Il permet aussi de constater que de nombreux autres titres ont connu un succès commercial important, même si leurs ventes restent bien inférieures à celles des deux premiers. Les chiffres mentionnés sont des estimations lues sur le graphique.
+Pour conclure, ce dashboard offre une vue d’ensemble du marché du jeu vidéo. Les graphiques et les filtres facilitent la lecture des données et permettent de comparer les jeux et les éditeurs. On voit ainsi que certains titres, notamment Minecraft et Grand Theft Auto V, se démarquent nettement par leurs ventes.
 
 
 ![15 jeux vidéo les plus vendus, toutes plateformes confondues](15JeuxLesPlusVendu.png)
